@@ -1,6 +1,6 @@
 # Software Engineering
 
-A collection of software engineering solutions.
+A collection of software engineering solutions. :book:
 
 ## Explore Content
 
